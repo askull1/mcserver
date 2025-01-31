@@ -1,0 +1,18 @@
+{
+  "$schema": "file:///D:/Data/G200812/Desktop/Minecreaft%20server%20test/nebula/workspace/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "신양 (Minecraft 1.21.4)",
+    "description": "신양 Running Minecraft 1.21.4",
+    "icon": "",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "untrackedFiles": []
+}
